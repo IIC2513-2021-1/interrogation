@@ -1,4 +1,9 @@
-const { callTest, getSample } = require('../../lib/mars');
+const { callTest, getSample } = require("../../lib/mars");
+const {
+  MIN_WEIGHT_A,
+  MIN_WEIGHT_B,
+  MIN_WEIGHT_C,
+} = require("../../lib/constants");
 
 function splitSample() {
   /* Write your solution here */
