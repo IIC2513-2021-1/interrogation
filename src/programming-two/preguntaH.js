@@ -2,7 +2,7 @@ const { callTest, getSample } = require("../../lib/mars");
 const {
   MIN_WEIGHT_A,
   MIN_WEIGHT_B,
-  MIN_WEIGHT_C,
+  MIN_WEIGHT_D,
 } = require("../../lib/constants");
 
 function splitSample() {

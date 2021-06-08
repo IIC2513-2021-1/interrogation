@@ -1,4 +1,3 @@
-// const preguntaC = require('./src/programming-one/preguntaC');
 const preguntaD = require('./src/programming-one/preguntaD');
 const preguntaE = require('./src/programming-one/preguntaE');
 const preguntaF = require('./src/programming-one/preguntaF');
