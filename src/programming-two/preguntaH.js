@@ -26,5 +26,10 @@ function performExperiment() {
 }
 
 module.exports = {
+  applyTestA,
+  applyTestB,
+  applyTestC,
+  applyTestD,
   performExperiment,
+  splitSample,
 };

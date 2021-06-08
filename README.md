@@ -29,13 +29,13 @@ yarn dev
 
 Puedes utilizar el archivo `index.js` para hacer pruebas de tus implementaciones. Basta con importar el módulo correspondiente a una pregunta, y llamar a las funciones dentro de este módulo (que son las que tienes que implementar).
 
-Por ejemplo, si quieres probar tu implementación de la pregunta F:
+Por ejemplo, si quieres probar tu implementación de la pregunta E:
 
 ```javascript
-const preguntaF = require('./src/programming-one/preguntaF');
+const preguntaE = require('./src/programming-one/preguntaE');
 const store = require('./data/store');
 
-console.log(preguntaF.checkStock(store));
+console.log(preguntaE.checkStock(store));
 ```
 
 Cualquier duda, no dudes en preguntarle al profesor o a algún ayudante.
